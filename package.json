@@ -17,7 +17,7 @@
     "dotenv": "^16.0.3",
     "express": "^4.17.1",
     "getstream": "^8.1.0",
-    "node": "^19.4.0",
+    "node": "^14.21.2",
     "nodemon": "^2.0.20",
     "stream-chat": "^4.1.0",
     "stream-chat-react": "^9.5.1",
